@@ -48,9 +48,17 @@ h2 a {
   h2 a:hover {
     text-decoration: none; }
 
-p, address, ul {
+address, ul {
   font-size: 1.38em;
   margin-bottom: 20px;
+  font-weight: 300;
+  line-height: 1.6em;
+  font-family: 'Lato', sans-serif; }
+
+p {
+  font-size: 1.38em;
+  margin-bottom: 20px;
+  margin-left: 10px;
   font-weight: 300;
   line-height: 1.6em;
   font-family: 'Lato', sans-serif; }
