@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/conferences/workshops/2023/06/25/ESA-PolinSAR-Biomass/</loc>
+<lastmod>2023-06-25T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/conferences/workshops/2023/09/20/ESA-FRINGE-Meeting/</loc>
+<lastmod>2023-09-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/conferences/workshops/2023/11/06/ESA-MAGIC-Science-Meeting/</loc>
+<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sdgs/project%20management/2023/12/08/tapas-sdgs/</loc>
+<lastmod>2023-12-08T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -14,5 +30,20 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/old_index/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/conferences/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/workshops/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/sdgs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/project-management/</loc>
 </url>
 </urlset>
