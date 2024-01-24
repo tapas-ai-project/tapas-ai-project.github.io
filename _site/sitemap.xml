@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/recruitment/postdoctoral%20associate%20in%20ai%20-%20machine%20learning/2022/07/25/postdoctoral-associate1/</loc>
+<lastmod>2022-07-25T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/data%20viz/2023/12/01/Dashboards-with-Streamlit/</loc>
+<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/machine%20learning/python/data%20analysis/2023/12/01/time-series-to-image-classification/</loc>
+<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -14,5 +26,23 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/recruitment/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/postdoctoral-associate-in-ai-machine-learning/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/data-viz/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/machine-learning/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/python/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/data-analysis/</loc>
 </url>
 </urlset>
