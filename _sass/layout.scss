@@ -2,6 +2,7 @@
 	margin: 0 auto;
 	position: relative;
 	padding: 0 20px;
+	z-index: 2;
 }
 
 .text-container {
@@ -94,7 +95,7 @@ header {
 }
 
 .content {
-	background: #fff;
+	background: #ffffff;
 }
 
 .info img {

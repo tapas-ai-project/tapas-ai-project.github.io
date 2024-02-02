@@ -1,7 +1,7 @@
 ---
-title: AI4Copernicus | EO & AI Solutions for Climate Change Challenges
+title: AI4Copernicus
 date: 2023-5-28
-description:
+description: EO & AI Solutions for Climate Change Challenges
 categories:
   - conferences
   - workshops
@@ -9,8 +9,7 @@ image: /images/srv_rgb.png
 author_staff_member: dualta
 ---
 
-
-## Identifying Rice Cropping Practices in the Senegal River Valley Post-Intervention using Copernicus
+#### Identifying Rice Cropping Practices in the Senegal River Valley Post-Intervention using Copernicus
 
 This week the team attended the AI4Copernicus meeting in Mondorf-les-Bains in Luxembourg. Many leading organisations in orbital imagery were present, giving updates on the current impactful use cases for the latest suite of satellites. 
 

@@ -80,7 +80,7 @@ p {
     top: 0;
     left: 0;
     right: 0;
-    height: 300px; }
+    height: 600px; }
   .hero p {
     color: #fff; }
   .hero .inner-hero {
@@ -123,7 +123,8 @@ p {
 .container, .text-container {
   margin: 0 auto;
   position: relative;
-  padding: 0 20px; }
+  padding: 0 20px;
+  z-index: 2; }
 
 .text-container {
   max-width: 750px; }
@@ -187,7 +188,7 @@ header {
       width: auto; }
 
 .content {
-  background: #fff; }
+  background: #ffffff; }
 
 .info img {
   max-height: 650px; }
