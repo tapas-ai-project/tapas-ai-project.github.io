@@ -3,6 +3,6 @@ title:
 date:
 description:
 categories:
-image:
+image: 
 author_staff_member:
 ---
