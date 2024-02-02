@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/conferences/workshops/2023/05/28/AI4Copernicus-Luxembourg/</loc>
+<lastmod>2023-05-28T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/conferences/workshops/2023/06/25/ESA-PolinSAR-Biomass/</loc>
 <lastmod>2023-06-25T00:00:00+00:00</lastmod>
 </url>
@@ -42,5 +46,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/project-management/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/images/AI4CopernicusPoster.pdf</loc>
+<lastmod>2024-02-02T19:45:11+00:00</lastmod>
 </url>
 </urlset>
