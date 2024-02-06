@@ -143,11 +143,13 @@ section {
 
 header {
   color: #fff;
-  padding: 15px 0;
+  padding: 10px 0;
   position: fixed;
   width: 100%;
   z-index: 9999;
-  line-height: 0; }
+  line-height: 0;
+  position: fixed;
+  height: 70px; }
   header .container {
     line-height: 0; }
   header.header-background {
@@ -161,7 +163,8 @@ header {
       @media (min-width: 620px) {
         header.header-background a:hover {
           border-bottom-color: rgba(80, 80, 80, 0.3);
-          border-bottom-width: 5px; } }
+          border-bottom-width: 5px;
+          padding-bottom: 25px; } }
     header.header-background .dark-logo {
       display: inline; }
     header.header-background .light-logo {
@@ -184,7 +187,7 @@ header {
     font-size: 1.7em;
     display: inline-block; }
     header .company-name img {
-      height: 30px;
+      height: 70px;
       width: auto; }
 
 .content {
@@ -518,7 +521,7 @@ nav {
   font-size: .8em;
   width: 100%;
   position: relative;
-  top: -7px;
+  top: -25px;
   text-shadow: none; }
   @media (min-width: 620px) {
     nav {
@@ -549,7 +552,8 @@ nav {
       nav a.nav-toggle:hover {
         border: 0; }
   nav a.active {
-    border-bottom: 5px solid #ffa74d; }
+    border-bottom: 5px solid #ffa74d;
+    padding-bottom: 25px; }
 
 footer {
   font-size: .6em;

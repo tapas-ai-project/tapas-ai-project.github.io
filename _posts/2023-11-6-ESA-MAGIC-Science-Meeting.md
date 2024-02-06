@@ -5,7 +5,7 @@ description:
 categories:
   - conferences
   - workshops
-image:
+image: /images/blog_cover2.jpeg
 author_staff_member: jemima
 ---
 

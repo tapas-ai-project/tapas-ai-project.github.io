@@ -21,7 +21,7 @@ nav {
 	font-size: .8em;
 	width: 100%;
 	position: relative;
-	top: -7px;
+	top: -25px;
 	text-shadow: none;
 
 	@media #{$mid-point} {
@@ -64,6 +64,7 @@ nav {
 
 	a.active {
 		border-bottom: 5px solid #ffa74d;
+		padding-bottom: 25px;
 	}
 
 }

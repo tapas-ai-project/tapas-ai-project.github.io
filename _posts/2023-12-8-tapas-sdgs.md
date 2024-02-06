@@ -5,7 +5,7 @@ description:
 categories:
   - SDGs
   - Project management
-image:
+image: /images/blog_cover1.jpeg
 author_staff_member: patricia
 ---
 

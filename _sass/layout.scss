@@ -27,11 +27,13 @@ section {
 
 header {
 	color: #fff;
-	padding: 15px 0;
+	padding: 10px 0;
 	position: fixed;
 	width: 100%;
 	z-index: 9999;
 	line-height: 0;
+	position: fixed;
+	height: 70px;
 
 	.container {
 		line-height: 0;
@@ -50,6 +52,7 @@ header {
 				&:hover {
 					border-bottom-color: rgba(80, 80, 80,.3);
 					border-bottom-width: 5px;
+					padding-bottom: 25px;
 				}
 			}
 		}
@@ -88,7 +91,7 @@ header {
 		display: inline-block;
 
 		img {
-			height: 30px;
+			height: 70px;
 			width: auto;
 		}
 	}
