@@ -7,6 +7,7 @@ categories:
   - workshops
 image: /images/blogcover4.jpeg
 author_staff_member: jemima
+excerpt: Poster Presentation - Crop Monitoring in Ireland with SAR to Quantify Agricultural Stability and Climate Resilience
 ---
 
 

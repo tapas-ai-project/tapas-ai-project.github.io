@@ -7,6 +7,7 @@ categories:
   - Project management
 image: /images/blog_cover1.jpeg
 author_staff_member: patricia
+excerpt: TAPAS unites intergovernmental organizations, government, civil society and academic research partners to accelerate action towards SDG implementation and promote the sustainable management of our natural resources.
 ---
 
 TAPAS unites intergovernmental organizations, government, civil society and academic research partners to accelerate action towards SDG implementation and promote the sustainable management of our natural resources.

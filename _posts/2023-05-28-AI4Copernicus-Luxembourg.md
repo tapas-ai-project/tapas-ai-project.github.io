@@ -7,6 +7,7 @@ categories:
   - workshops
 image: /images/srv_rgb.png
 author_staff_member: dualta
+excerpt: Identifying Rice Cropping Practices in the Senegal River Valley Post-Intervention using Copernicus
 ---
 
 #### Identifying Rice Cropping Practices in the Senegal River Valley Post-Intervention using Copernicus

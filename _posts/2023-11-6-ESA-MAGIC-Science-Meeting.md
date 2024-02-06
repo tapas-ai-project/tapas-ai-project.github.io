@@ -1,5 +1,5 @@
 ---
-title: ESA MAGIC Science and Applications Nov 2023
+title: ESA MAGIC Science and Applications 2023
 date: 2023-11-6
 description:
 categories:
@@ -7,6 +7,7 @@ categories:
   - workshops
 image: /images/blogcover2.jpeg
 author_staff_member: jemima
+excerpt: Poster Presentation - Upsampling GRACE in the Senegal River Valley using an XGBoost regression model
 ---
 
 

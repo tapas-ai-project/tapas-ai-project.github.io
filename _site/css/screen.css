@@ -445,16 +445,17 @@ blockquote:before {
   padding: 30px; }
 
 .button a, input[type=submit] {
-  color: #6ba1f3;
+  color: #258c10;
   text-decoration: none;
-  border: 2px solid #6ba1f3;
+  border: 2px solid #258c10;
   transition: .2s ease-in-out;
   display: inline-block;
-  padding: 16px 50px;
-  background: #fff; }
+  padding: 5px 40px;
+  background: #fff;
+  margin: 15px 0px 0px 5px; }
 
 .button a:hover, input[type=submit]:hover {
-  background: #6ba1f3;
+  background: #258c10;
   color: #fff;
   cursor: pointer; }
 
@@ -465,7 +466,7 @@ blockquote:before {
 
 .button.alt a:hover {
   background: #fff;
-  color: #6ba1f3;
+  color: #258c10;
   text-shadow: none; }
 
 textarea, input, button, select {
@@ -503,17 +504,18 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
   box-shadow: 0 0 5px #51cbee;
   border: 1px solid #51cbee; }
 
-.nav-open nav {
+.nav-open nav, nav {
   border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
-  padding: 10px 0; }
-  .nav-open nav a {
+  padding: 10px 0;
+  background-color: transparent; }
+  .nav-open nav a, nav a {
     display: block;
     padding: 30px 0; }
   @media (min-width: 620px) {
-    .nav-open nav {
+    .nav-open nav, nav {
       border: 0;
       padding: 0 20px; }
-      .nav-open nav a {
+      .nav-open nav a, nav a {
         display: inline; } }
 
 nav {

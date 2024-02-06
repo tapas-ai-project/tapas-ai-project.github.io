@@ -1,5 +1,5 @@
 ---
-title: ESA PolinSAR Biomass June 2023
+title: ESA PolinSAR Biomass 2023
 date: 2023-6-25
 description:
 categories:
@@ -7,6 +7,7 @@ categories:
   - workshops
 image: /images/blogcover3.jpeg
 author_staff_member: jemima
+excerpt: Poster Presentation - Quantifying The Impact of Climate-Change-Induced Desertification In Agrifood Production In Senegal Using BIOMASS
 ---
 
 

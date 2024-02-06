@@ -1,6 +1,7 @@
-.nav-open nav {
+.nav-open nav, nav {
 	border-bottom: 1px dotted rgba(255, 255, 255, .2);
 	padding: 10px 0;
+	background-color: transparent;
 	a {
 		display: block;
 		padding: 30px 0;
@@ -9,12 +10,12 @@
 	@media #{$mid-point} {
 		border: 0;
 		padding: 0 20px;
-
 		a {
 			display: inline;
 		}
 	}
 }
+
 
 nav {
 	text-transform: uppercase;
@@ -28,7 +29,6 @@ nav {
 		padding: 0 20px;
 		display: inline;
 	}
-
 
 	a {
 		margin: 0 3px;
