@@ -4,7 +4,7 @@ date: 2024-1-20
 description:
 categories:
   - SDGs
-  - Project management
+  - Conferences
 image: /images/blogcover5.jpeg
 author_staff_member: patricia
 excerpt: The TAPAS AI models are tracking climate change across Sub-Saharan Africa reflecting rising temperatures, erratic rainfall patterns, prolonged droughts, and extreme weather events. These changes pose a direct threat to the region's agriculture-dependent economies and the livelihoods of millions.

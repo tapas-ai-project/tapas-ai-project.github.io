@@ -88,7 +88,7 @@ p {
     align-items: center;
     height: 100%; }
   .hero .hero-text-container {
-    width: 600px;
+    width: 800px;
     text-align: left; }
     .hero .hero-text-container h1, .hero .hero-text-container h2, .hero .hero-text-container p, .hero .hero-text-container .button {
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
@@ -127,7 +127,7 @@ p {
   z-index: 2; }
 
 .text-container {
-  max-width: 750px; }
+  max-width: 950px; }
 
 .container {
   max-width: 1140px; }
