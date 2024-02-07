@@ -94,6 +94,14 @@ p {
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
     .hero .hero-text-container h1 {
       font-size: 38px; }
+  .hero .hero-vid-container {
+    display: flex;
+    align-items: center;
+    /* This centers the iframe vertically */
+    justify-content: center;
+    /* This centers the iframe horizontally */
+    width: 1400px;
+    height: 1000px; }
   .hero .hero-text-right {
     position: absolute;
     right: 0; }

@@ -46,6 +46,14 @@ $font-size-hero-h1-desktop: 64px;
 		}
 	}
 
+	.hero-vid-container {
+		display: flex;
+		align-items: center; /* This centers the iframe vertically */
+		justify-content: center; /* This centers the iframe horizontally */
+		width: 1400px;
+		height: 1000px;
+	}
+
 	.hero-text-right {
 		position: absolute;
 		right: 0;

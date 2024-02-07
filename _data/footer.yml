@@ -10,5 +10,7 @@ right_links:
     link: https://twitter.com/tapas-ai
     social_icon: Twitter
     new_window: true
-
-
+  - name:
+    link: https://www.linkedin.com/in/aaron-golden-3701a286
+    social_icon: Linkedin
+    new_window: true
