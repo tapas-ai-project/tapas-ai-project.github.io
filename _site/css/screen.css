@@ -88,13 +88,18 @@ p {
     align-items: center;
     height: 100%; }
   .hero .hero-text-container {
-    width: 800px;
+    width: 1000px;
     text-align: left; }
-    .hero .hero-text-container h1, .hero .hero-text-container h2, .hero .hero-text-container p, .hero .hero-text-container .button {
+    .hero .hero-text-container h2, .hero .hero-text-container p, .hero .hero-text-container .button {
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
+    .hero .hero-text-container h1 {
+      font-size: 38px; }
   .hero .hero-text-right {
     position: absolute;
     right: 0; }
+  @media (min-width: 768px) {
+    .hero .hero-text-container h1 {
+      font-size: 64px; } }
 
 .image {
   text-align: center; }
@@ -113,6 +118,8 @@ p {
     display: flex;
     align-items: center;
     flex-direction: row; }
+    .flex .hero-text-container h1 {
+      font-size: 64px; }
     .flex .text, .flex .image {
       -webkit-flex: 1;
       flex: 1;
@@ -127,11 +134,22 @@ p {
   z-index: 2; }
 
 .text-container {
-  max-width: 950px; }
+  max-width: 500px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0 20px;
+  z-index: 2; }
 
 .container {
-  max-width: 1140px; }
+  max-width: 1140px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0 20px;
+  z-index: 2; }
 
+@media (min-width: 620px) {
+  .text-container {
+    max-width: 1050px; } }
 .dark-logo {
   display: none; }
 
@@ -510,13 +528,16 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
   background-color: transparent; }
   .nav-open nav a, nav a {
     display: block;
-    padding: 30px 0; }
+    padding: 0px 0; }
   @media (min-width: 620px) {
     .nav-open nav, nav {
       border: 0;
       padding: 0 20px; }
       .nav-open nav a, nav a {
         display: inline; } }
+  @media (max-width: 620px) {
+    .nav-open nav a, nav a {
+      padding: 30px 0 25px 20px; } }
 
 nav {
   text-transform: uppercase;
@@ -529,6 +550,9 @@ nav {
     nav {
       padding: 0 20px;
       display: inline; } }
+  @media (max-width: 620px) {
+    nav {
+      top: 0; } }
   nav a {
     margin: 0 3px;
     padding: 14px 10px;
@@ -539,15 +563,18 @@ nav {
         display: inline;
         border-bottom: 1px solid rgba(255, 255, 255, 0);
         color: rgba(255, 255, 255, 0.8); } }
+    @media (max-width: 620px) {
+      nav a {
+        background-color: rgba(255, 255, 255, 0.95); } }
     nav a.nav-toggle {
       display: inline;
       position: absolute;
       right: 10px;
-      top: -7px;
+      top: -27px;
       font-size: 1.9em;
       border: 0;
       text-shadow: 0;
-      padding: 0 !important; }
+      padding: 0  !important; }
       @media (min-width: 620px) {
         nav a.nav-toggle {
           display: none; } }
@@ -555,7 +582,8 @@ nav {
         border: 0; }
   nav a.active {
     border-bottom: 5px solid #ffa74d;
-    padding-bottom: 25px; }
+    padding-bottom: 25px;
+    width: 105%; }
 
 footer {
   font-size: .6em;

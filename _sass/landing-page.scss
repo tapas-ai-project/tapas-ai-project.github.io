@@ -1,3 +1,7 @@
+$font-size-hero-h1-mobile: 38px;
+$font-size-hero-h1-desktop: 64px;
+
+
 .hero {
 	color: #ffffff;
 	text-align: center;
@@ -30,17 +34,27 @@
 	}
 
 	.hero-text-container {
-		width: 800px;
+		width: 1000px;
 		text-align: left;
 
-		h1, h2, p, .button {
+		h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+		}
+
+		h1 {
+			font-size: $font-size-hero-h1-mobile
 		}
 	}
 
 	.hero-text-right {
 		position: absolute;
 		right: 0;
+	}
+
+	@media #{$desktop} {
+		.hero-text-container h1 {
+			font-size: 64px; // Use variable for desktop
+		}
 	}
 }
 
@@ -61,6 +75,10 @@
 		@include flexbox;
 		align-items: center;
 		flex-direction: row;
+	
+		.hero-text-container h1 {
+			font-size: 64px; 
+		}
 
 		.text, .image {
 			-webkit-flex: 1;
@@ -69,7 +87,9 @@
 		}
 	}
 
+
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
+	
 }

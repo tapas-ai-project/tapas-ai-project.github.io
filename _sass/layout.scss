@@ -5,13 +5,31 @@
 	z-index: 2;
 }
 
+// Base styles (applied to mobile by default)
 .text-container {
-	max-width: 950px;
+    max-width: 500px; // Narrower width for mobile
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+    z-index: 2;
 }
 
 .container {
-	max-width: 1140px;
+    max-width: 1140px; // This can remain for larger screens or be adjusted as needed
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+    z-index: 2;
 }
+
+// Styles for screens wider than $mid-point (desktop)
+@media (min-width: #{$mid-point2}) {
+    .text-container {
+        max-width: 1050px; // Wider width for desktop
+    }
+    // No need to adjust .container here unless you want a different style for desktop
+}
+
 
 .dark-logo {
 	display: none;
