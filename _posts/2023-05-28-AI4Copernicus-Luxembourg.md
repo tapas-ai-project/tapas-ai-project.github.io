@@ -23,7 +23,27 @@ This type of analysis gives an indepth view of rice production trends in a regio
 
 The poster presented at the conference can be viewed below.
 
-![](/images/AI4CopernicusPoster.pdf "AI4Copernicus Poster")
+<!-- ![](/images/AI4CopernicusPoster.pdf "AI4Copernicus Poster") -->
+<!-- <object 
+  data="/images/AI4CopernicusPoster.pdf" 
+  width="800" 
+  height="1200"
+  style="float: center;"
+  type="application/pdf"></object> -->
+
+<div class="pdf-container">
+<object data="/images/AI4CopernicusPoster.pdf" 
+        type="application/pdf" 
+        width="900" 
+        height="1200">
+    <iframe src="/images/AI4CopernicusPoster.pdf" 
+            width="900" 
+            height="1200">
+            This browser does not support PDFs. Please download the PDF to view it: <a href="/images/AI4CopernicusPoster.pdf">Download PDF</a>.
+    </iframe>
+</object>
+</div>
+
 *The poster presented at AI4Copernicus*
 
 <!-- ![](/images/srv_rgb.png "AI4Copernicus Poster") -->
