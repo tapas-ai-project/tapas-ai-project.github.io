@@ -154,9 +154,28 @@
 }
 
 
+// .pdf-container {
+//     display: flex;
+//     justify-content: center; /* Centers horizontally */
+//     align-items: center; /* Centers vertically */
+//     height: 100vh; /* Full height of the viewport */
+// }
+
 .pdf-container {
-    display: flex;
-    justify-content: center; /* Centers horizontally */
-    align-items: center; /* Centers vertically */
-    height: 100vh; /* Full height of the viewport */
+    display: block; /* Ensures the container is a block-level element, fitting the content's flow */
+    text-align: center; /* Centers the PDF in the container */
+    margin: 2em 0; /* Adds space above and below the container */
+    position: centre; /* Establishes a positioning context */
+    width: 100%; /* Ensures the container width fits its parent element */
+    max-width: 1100px; /* Maximum width of the PDF */
+    height: auto; /* Height is set to auto to maintain aspect ratio */
+    overflow: hidden; /* Prevents any overflow from the PDF */
+	align-items: center;
+}
+
+.pdf-container object,
+.pdf-container iframe {
+    width: 100%; /* Makes the PDF responsive */
+    max-width: 900px; /* Maximum width */
+    max-height: 1200px; /* Maximum height, adjust as necessary */
 }
