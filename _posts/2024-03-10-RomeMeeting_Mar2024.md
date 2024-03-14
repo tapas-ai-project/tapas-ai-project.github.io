@@ -7,11 +7,11 @@ categories:
   - workshops
 image: /images/CIAT_IT.jpg
 author_staff_member: mick
-excerpt: Meeting with CGIAR, CIAT and ESA in Rome
+excerpt: The recent in-person planning workshop of our interdisciplinary Tracking Adaptation Progress in Agricultural Systems (TAPAS) Project took place with our CGIAR partners in Alliance of Bioversity International and CIAT headquarters in Rome.
 ---
 
 
-Title:  TAPAS in-person planning workshop with CGIAR partners in Alliance of Bioversity International and CIAT.
+## TAPAS in-person planning workshop with CGIAR partners in Alliance of Bioversity International and CIAT.
 
 The recent in-person planning workshop of our interdisciplinary Tracking Adaptation Progress in Agricultural Systems (TAPAS) Project took place with our <a href="https://www.cgiar.org/"> CGIAR </a> partners in Alliance of Bioversity International and <a href="https://alliancebioversityciat.org/"> CIAT </a> headquarters in Rome.
 
@@ -27,8 +27,8 @@ Thanks to our colleagues in Alliance of Bioversity International and CIAT for ho
 
 About TAPAS
 
-<a href="https://www.tapas-ai.org"> TAPAS Project Website </a>
+- <a href="https://www.tapas-ai.org"> TAPAS Project Website </a>
 
-<a href="https://www.sfi.ie/research-news/news/ai-climate-change/"> TAPAS Project Press Launch </a>
+- <a href="https://www.sfi.ie/research-news/news/ai-climate-change/"> TAPAS Project Press Launch </a>
 
-<a href="https://youtu.be/srHEehTNJcs"> TAPAS Project Video </a>
+- <a href="https://youtu.be/srHEehTNJcs"> TAPAS Project Video </a>
