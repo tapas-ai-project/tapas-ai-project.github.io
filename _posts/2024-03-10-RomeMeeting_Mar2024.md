@@ -1,3 +1,16 @@
+---
+title: CGIAR Meeeting in Rome
+date: 2024-03-10
+description: Meeting with CGIAR, CIAT and ESA in Rome
+categories:
+  - conferences
+  - workshops
+image: /images/CIAT_IT.jpg
+author_staff_member: mick
+excerpt: Meeting with CGIAR, CIAT and ESA in Rome
+---
+
+
 Title:  TAPAS in-person planning workshop with CGIAR partners in Alliance of Bioversity International and CIAT.
 
 The recent in-person planning workshop of our interdisciplinary Tracking Adaptation Progress in Agricultural Systems (TAPAS) Project took place with our CGIAR <https://www.cgiar.org/> partners in Alliance of Bioversity International and CIAT<https://alliancebioversityciat.org/> headquarters in Rome.
