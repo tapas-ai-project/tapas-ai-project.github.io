@@ -13,7 +13,7 @@ excerpt: Meeting with CGIAR, CIAT and ESA in Rome
 
 Title:  TAPAS in-person planning workshop with CGIAR partners in Alliance of Bioversity International and CIAT.
 
-The recent in-person planning workshop of our interdisciplinary Tracking Adaptation Progress in Agricultural Systems (TAPAS) Project took place with our CGIAR <https://www.cgiar.org/> partners in Alliance of Bioversity International and CIAT <https://alliancebioversityciat.org/> headquarters in Rome.
+The recent in-person planning workshop of our interdisciplinary Tracking Adaptation Progress in Agricultural Systems (TAPAS) Project took place with our <a href="https://www.cgiar.org/"> CGIAR </a> partners in Alliance of Bioversity International and CIAT <https://alliancebioversityciat.org/> headquarters in Rome.
 
 Our TAPAS research team is developing AI-enabled satellite remote sensing methodologies for measuring productivity, emissions and adaptation in agricultural systems. To date, we have been developing a range of prototype methods and pipelines for AI-enabled satellite remote sensing of cropping systems, where we are co-developing use cases in partnership with a range of CGIAR System-wide Initiatives, including MITIGATE+, AMD, ClimBer and Climate Security. Our TAPAS project planning meeting was also attended by representatives from the European Space Agency - ESA<https://www.esa.int/> and UNHCR, the UN Refugee Agency <https://www.unhcr.org/>, with whom there are significant opportunities for impactful synergies with the TAPAS project.
 
