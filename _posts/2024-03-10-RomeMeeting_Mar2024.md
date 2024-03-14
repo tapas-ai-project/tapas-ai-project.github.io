@@ -1,5 +1,5 @@
 ---
-title: CGIAR Meeeting in Rome
+title: CGIAR Meeting in Rome
 date: 2024-03-10
 description: Meeting with CGIAR, CIAT and ESA in Rome
 categories:
