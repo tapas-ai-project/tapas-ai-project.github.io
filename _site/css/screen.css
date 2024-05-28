@@ -75,7 +75,7 @@ p {
   background-position: center center; }
   .hero:before {
     content: "";
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
     position: absolute;
     top: 0;
     left: 0;
@@ -105,9 +105,11 @@ p {
   .hero .hero-text-right {
     position: absolute;
     right: 0; }
-  @media (min-width: 768px) {
-    .hero .hero-text-container h1 {
-      font-size: 64px; } }
+  @media screen and (min-width: 1024px) {
+    .hero {
+      /* Replace $desktop with actual value */ }
+      .hero .hero-text-container h1 {
+        font-size: 64px; } }
 
 .image {
   text-align: center; }
@@ -117,12 +119,9 @@ p {
   .bottom-cta h2 {
     margin-bottom: 12px; }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 1024px) {
+  /* Replace $desktop with actual value */
   .flex {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flexbox;
     display: flex;
     align-items: center;
     flex-direction: row; }
