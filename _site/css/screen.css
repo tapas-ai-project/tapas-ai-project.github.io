@@ -497,6 +497,21 @@ blockquote:before {
   max-height: 1200px;
   /* Maximum height, adjust as necessary */ }
 
+/* Custom styles for the interactive post to ensure the navbar does not get affected by other styles */
+.interactive-post .navbar-nav {
+  display: flex;
+  justify-content: flex-start; }
+
+.interactive-post .navbar-brand {
+  flex: none; }
+
+.interactive-post .navbar-nav > li {
+  flex: none;
+  text-align: center; }
+
+.interactive-post .navbar-nav > li > a {
+  display: block; }
+
 .button a, input[type=submit] {
   color: #258c10;
   text-decoration: none;
