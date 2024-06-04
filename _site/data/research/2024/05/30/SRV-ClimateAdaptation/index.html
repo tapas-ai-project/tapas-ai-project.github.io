@@ -14,11 +14,11 @@
 <link rel="canonical" href="http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/" />
 <meta property="og:url" content="http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/" />
 <meta property="og:site_name" content="TAPAS" />
-<meta property="og:image" content="http://localhost:4000/images/rice-drone.jpg" />
+<meta property="og:image" content="http://localhost:4000/images/satellite_view_senegal.png" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2024-05-30T00:00:00+00:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/"},"url":"http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/","@type":"BlogPosting","description":"Data","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/siteicon.png"}},"headline":"Climate Adaptation","dateModified":"2024-05-30T00:00:00+00:00","datePublished":"2024-05-30T00:00:00+00:00","image":"http://localhost:4000/images/rice-drone.jpg","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/"},"url":"http://localhost:4000/data/research/2024/05/30/SRV-ClimateAdaptation/","@type":"BlogPosting","description":"Data","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/siteicon.png"}},"headline":"Climate Adaptation","dateModified":"2024-05-30T00:00:00+00:00","datePublished":"2024-05-30T00:00:00+00:00","image":"http://localhost:4000/images/satellite_view_senegal.png","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="TAPAS" />
@@ -99,7 +99,7 @@
         </div>
     </header>
 
-    <section class="hero" style="background-image: url(/images/rice-drone.jpg)">
+    <section class="hero" style="background-image: url(/images/satellite_view_senegal.png)">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1>Climate Adaptation</h1>
@@ -128,9 +128,12 @@
         <div class="post-content">
             <h2 id="climate-adaptation-in-the-senegal-river-valley">Climate adaptation in the Senegal River Valley</h2>
 <p><br />
-Using deep learning methods, a model can be trained that learns historical patterns of biomass (in this case NDVI). 
+Using deep learning methods, a model can be trained that learns historical patterns of biomass (in this case NDVI). This can be done in a number of different ways, for the results shown here we use a 2D CNN-LSTM architecture. In the newest model, we use a transformer instead, which performs slightly better. 
 <img src="/images/climate_adaptation_schematic.png" alt="Climate adaptation methodology" />
-This interactive map shows the climate adaptation for the different rice growing seasons in the Senegal River Valley for the early irrigated season in 2020 (other values can be seen by hovering over each polygon). In this case red means a region is underperforming relative to the conditions 20 years ago, blue means it is overperforming (adapting).</p>
+This interactive map shows the climate adaptation for the different rice growing seasons in the Senegal River Valley for the early irrigated season in 2020 (other values can be seen by hovering over each polygon). In this case red means a region is underperforming relative to the conditions 20 years ago, blue means it is overperforming (adapting). 
+\</p>
+
+<p>(Note background tiles are the latest Leaflet satellite imagery)</p>
 
 <div class="folium-map" id="map_fc418d07c2dcbe2ba71c63946fed85f9"></div>
 
