@@ -2,7 +2,7 @@
 layout: interactive_post
 title: Climate Adaptation
 date: 2024-05-30
-description: Data
+description: Developing a climate adaptation index for arid crops
 categories:
   - data
   - research

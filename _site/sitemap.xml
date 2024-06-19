@@ -49,6 +49,14 @@
 <lastmod>2024-05-30T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/research/2024/06/10/ClimateResilienceSRV/</loc>
+<lastmod>2024-06-10T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/analysis/research/2024/06/10/IowaDerecho/</loc>
+<lastmod>2024-06-10T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -86,6 +94,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/publication/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/analysis/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2/</loc>
