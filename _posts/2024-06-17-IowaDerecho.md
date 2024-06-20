@@ -1,6 +1,6 @@
 ---
 layout: interactive_post
-title: "Assessing disaster impact using SAR"
+title: "Assesing Disaster Impact Rapidly Using SAR"
 date: 2024-06-10
 description: Crop failure from wind storm (derecho) in Iowa
 categories:
