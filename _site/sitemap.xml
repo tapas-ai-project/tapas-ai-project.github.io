@@ -57,6 +57,10 @@
 <lastmod>2024-06-10T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/meetings/engagement/2024/09/30/ADBCork/</loc>
+<lastmod>2024-09-30T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -100,6 +104,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/analysis/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/meetings/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/engagement/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2/</loc>
