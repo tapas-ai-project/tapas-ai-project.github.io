@@ -24,6 +24,8 @@ SFF events debated how stricter standards and interconnected networks are pushin
 Christine Lagarde, 
 President of the European Central Bank
 
+![Singapore Fintech Festival](/images/SinFiTech.png)
+
 ### Quantum Computing
 
 There was an emphasis on Quantum computing at this year’s festival. Long considered a futuristic dream, Quantum is edging closer to reality with recent hardware advancements. Though fully optimized applications for quantum computing remain on the horizon, the technology's potential to revolutionize finance is already capturing the attention of fintech leaders. In SFF2024, discussions highlighted how quantum computing could redefine capabilities in areas like climate modelling and economic forecasting, where traditional computing struggles with vast data and variable dependencies. While practical applications may still be a few years away, industry players are keeping a close watch on this technology’s progress, eager for the paradigm shifts it promises.
@@ -38,5 +40,8 @@ Regulatory bodies and fintech firms are working together to create standards tha
 Carbon markets play a pivotal role in combating climate change by enabling the trading of carbon credits. However, these markets face hurdles like opacity, inaccurate reporting, and insufficient security. SFF2024 showcased various tech solutions aimed at resolving these challenges through innovations such as AI-powered analytics, advanced data-tracking tools, and blockchain technology. By increasing transparency, these tools make it possible to verify emissions reductions and ensure the integrity of carbon credits.
 Blockchain, for instance, ensures that carbon credits are securely transacted and traceable, reducing fraud and boosting confidence among investors. With these advancements, carbon markets are evolving into more reliable mechanisms that can drive impactful climate action, aligning financial incentives with environmental benefits.
 Technology and sustainability take the lead
-The festival underscored the growing role of technology in shaping a sustainable financial future. From advancements in ESG finance and quantum computing to trust-building in AI and tech-driven carbon markets, the event emphasized that sustainable finance is no longer a choice but a necessity. As tech innovations evolve, so does the pathway toward a resilient, sustainable future where finance is a driver of positive change. The discussions at SFF2024 highlighted the promising journey ahead, proving that with the right tools and collaborations, the fintech industry can indeed be a powerful force in global sustainability.
-SFF2024 has provided a glimpse into an exciting future where technology and sustainability are intertwined, driving progress toward a cleaner, greener world.
+The festival underscored the growing role of technology in shaping a sustainable financial future. From advancements in ESG finance and quantum computing to trust-building in AI and tech-driven carbon markets, the event emphasized that sustainable finance is no longer a choice but a necessity. As tech innovations evolve, so does the pathway toward a resilient, sustainable future where finance is a driver of positive change. The discussions at SFF2024 highlighted the promising journey ahead, proving that with the right tools and collaborations, the fintech industry can indeed be a powerful force in global sustainability.   
+
+![Insights Forum](images/insights5.png)
+
+### SFF2024 has provided a glimpse into an exciting future where technology and sustainability are intertwined, driving progress toward a cleaner, greener world.
