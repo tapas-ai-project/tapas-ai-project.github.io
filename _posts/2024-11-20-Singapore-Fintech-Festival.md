@@ -5,7 +5,7 @@ description:
 categories:
   - meetings
   - engagement
-image: 
+image: /images/singapor-fintech-2024-1920x615.jpg
 author_staff_member: patricia
 excerpt: The TAPAS team took part at this year’s Singapore FinTech Festival. This powerful gathering was a hotspot for thought leadership and innovation in finance and sustainability, drawing global attention to groundbreaking advancements in technology. With an impressive lineup of discussions, panels, and networking events, SFF2024 showcased key trends that are shaping the future of sustainability through finance and technology for a greener, more resilient world.
 ---
