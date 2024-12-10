@@ -42,6 +42,6 @@ Blockchain, for instance, ensures that carbon credits are securely transacted an
 Technology and sustainability take the lead
 The festival underscored the growing role of technology in shaping a sustainable financial future. From advancements in ESG finance and quantum computing to trust-building in AI and tech-driven carbon markets, the event emphasized that sustainable finance is no longer a choice but a necessity. As tech innovations evolve, so does the pathway toward a resilient, sustainable future where finance is a driver of positive change. The discussions at SFF2024 highlighted the promising journey ahead, proving that with the right tools and collaborations, the fintech industry can indeed be a powerful force in global sustainability.   
 
-![Insights Forum](images/insights5.png)
+![Insights Forum](/images/insights5.png)
 
 ### SFF2024 has provided a glimpse into an exciting future where technology and sustainability are intertwined, driving progress toward a cleaner, greener world.
